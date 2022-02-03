@@ -1,0 +1,2 @@
+-- CLUSTER users USING users_nickname_key;
+-- CLUSTER tasks USING users_nickname_key;

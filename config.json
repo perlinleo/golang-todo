@@ -1,0 +1,17 @@
+{
+    "debug": true,
+    "server": {
+        "address": ":5000"
+    },
+    "context": {
+        "timeout": 2
+    },
+    "database": {
+        "host": "172.21.231.119",
+        "port": "5432",
+        "user": "postgres",
+        "pass": "password",
+        "name": "todo"
+    }
+
+}
